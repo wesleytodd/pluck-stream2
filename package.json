@@ -1,0 +1,30 @@
+{
+  "name": "pluck-stream2",
+  "version": "1.0.0",
+  "description": "Pluck values from object in a stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "happiness"
+  },
+  "author": "Wes Todd",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "happiness": "^5.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleytodd/pluck-stream2.git"
+  },
+  "keywords": [
+    "pluck",
+    "stream",
+    "object-stream"
+  ],
+  "bugs": {
+    "url": "https://github.com/wesleytodd/pluck-stream2/issues"
+  },
+  "homepage": "https://github.com/wesleytodd/pluck-stream2#readme"
+}
